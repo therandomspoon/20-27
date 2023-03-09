@@ -391,3 +391,5 @@ window.onload = function () {
 	// clock tick, goal detection
 	Papiezowa.tick()
 }
+var vid = document.getElementById("media/Breaking Bad's Gale sings _Major Tom_ (Complete Song) [HD]-0v0VR6Kf7KQ (1).mp4");
+vid.controls = true;
